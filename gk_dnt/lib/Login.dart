@@ -19,10 +19,10 @@ void main() async {
   )
       : await Firebase.initializeApp(); // Khởi tạo Firebase
 
-  runApp(MyApp());
+  runApp(Login());
 }
 
-class MyApp extends StatelessWidget {
+class Login extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -134,7 +134,7 @@ class _LoginPageState extends State<LoginPage> {
         // Chuyển đến trang chính sau khi đăng nhập thành công
         Navigator.pushReplacement(
           context,
-          MaterialPageRoute(builder: (context) => Home()), // Đến MainScreen
+          MaterialPageRoute(builder: (context) => MyApp()), // Đến MainScreen
         );
       } else {
         print('Invalid email or password');
