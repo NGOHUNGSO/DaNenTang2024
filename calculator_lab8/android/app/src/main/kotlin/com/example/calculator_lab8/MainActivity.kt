@@ -1,4 +1,4 @@
-package com.example.xylophone
+package com.example.calculator_lab8
 
 import io.flutter.embedding.android.FlutterActivity
 

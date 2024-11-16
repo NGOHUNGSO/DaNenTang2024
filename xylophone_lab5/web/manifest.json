@@ -1,6 +1,6 @@
 {
-    "name": "xylophone",
-    "short_name": "xylophone",
+    "name": "xylophone_lab5",
+    "short_name": "xylophone_lab5",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
