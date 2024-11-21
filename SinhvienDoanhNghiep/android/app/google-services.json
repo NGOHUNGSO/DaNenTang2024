@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462827336300",
+    "project_id": "sinhvien-3f1c7",
+    "storage_bucket": "sinhvien-3f1c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462827336300:android:4e785e08b54c60d4229e49",
+        "android_client_info": {
+          "package_name": "com.example.laptrinhdanetang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg8cJTOd7cjPufbaBowy99pKs7b3JmkHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
